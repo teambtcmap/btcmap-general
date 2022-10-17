@@ -1,5 +1,6 @@
 # btcmap-general
-General repo for all non-code stuff.
+
+[Assets](https://github.com/teambtcmap/btcmap-general/tree/main/design/assets)
 
 ---
 
